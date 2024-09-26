@@ -32,11 +32,11 @@ def setup(app):
 # -- Project information -----------------------------------------------------
 
 project = u'tdrtargets'
-copyright = u'2019, Lionel Uran Landaburu'
-author = u'Lionel Uran Landaburu'
+copyright = u'2019, 2024 Lionel Uran Landaburu, Fernán Agüero'
+author = u'Lionel Uran Landaburu, Fernán Agüero'
 
 # The short X.Y version
-version = u''
+version = u'6.1'
 # The full version, including alpha/beta/rc tags
 release = u'6.1.0'
 
